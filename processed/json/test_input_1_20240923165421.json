@@ -1,0 +1,70 @@
+[
+  {
+    "record_id": "550e8400-8577539381",
+    "semester": "Fall",
+    "student_name": "Pranjal Ekhande ",
+    "bu_id": "U12345678",
+    "program_of_study": "Computer Science",
+    "courses": [
+      {
+        "course_id": "CS601",
+        "course_name": "Web Application Development",
+        "course_section": "A1",
+        "start_time": "18:00",
+        "duration": "2:30",
+        "building_code": "CAS",
+        "room_number": "B20",
+        "course_credits": 4
+      },
+      {
+        "course_id": "CS622",
+        "course_name": "Advanced Programming Techniques",
+        "course_section": "B1",
+        "start_time": "14:30",
+        "duration": "2:30",
+        "building_code": "PHO",
+        "room_number": "203",
+        "course_credits": 4
+      }
+    ]
+  },
+  {
+    "record_id": "550e8400-e29b-41d4-a716-446655440001",
+    "semester": "Fall",
+    "student_name": "Shreya Smith",
+    "bu_id": "U87654321",
+    "program_of_study": "Data Science",
+    "courses": [
+      {
+        "course_id": "DS500",
+        "course_name": "Introduction to Data Science",
+        "course_section": "C1",
+        "start_time": "10:00",
+        "duration": "2:00",
+        "building_code": "MET",
+        "room_number": "101",
+        "course_credits": 4
+      },
+      {
+        "course_id": "CS544",
+        "course_name": "Foundations of Analytics",
+        "course_section": "D1",
+        "start_time": "13:00",
+        "duration": "2:30",
+        "building_code": "CAS",
+        "room_number": "224",
+        "course_credits": 4
+      },
+      {
+        "course_id": "CS506",
+        "course_name": "Databases",
+        "course_section": "E1",
+        "start_time": "16:00",
+        "duration": "2:30",
+        "building_code": "PHO",
+        "room_number": "305",
+        "course_credits": 4
+      }
+    ]
+  }
+]
